@@ -21,7 +21,7 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Walmart gift card balance - Method to Check a Walmart Gift Card Balance"
+html_title = "Walmart gift card balance - Methods to Check a Walmart Gift Card Balance"
 
 # Optional short title (e.g., for nav bar)
 html_short_title = "how do you check your Walmart gift card balance"
