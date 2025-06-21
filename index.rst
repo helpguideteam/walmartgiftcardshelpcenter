@@ -1,7 +1,7 @@
 Walmart gift card balance - Methods to Check My Walmart Gift Card Balance
 =====================================================
 
-To start check the walmart gift card balance, navigate to Walmart "`check Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_" page. Locate the 16-digit card number and PIN on the back. Enter these numbers into their respective fields on the page and click "Check Balance." 
+To start check the walmart gift card balance, navigate to walmart "`check Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_" page. Locate the 16-digit card number and PIN on the back. Enter these numbers into their respective fields on the page and click "Check Balance." 
 
 
 .. image:: getstartedhere.png
