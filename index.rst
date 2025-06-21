@@ -1,22 +1,24 @@
-Walmart gift card balance - Method to Check My Walmart Gift Card Balance
+Walmart gift card balance - Methods to Check My Walmart Gift Card Balance
 =====================================================
 
-To Start check the walmart gift card balance, navigate to Walmart "`Check Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_" page. Locate the 16-digit card number and PIN on the back. Enter these numbers into their respective fields on the page and click "Check Balance." 
+To start check the walmart gift card balance, navigate to Walmart "`Check Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_" page. Locate the 16-digit card number and PIN on the back. Enter these numbers into their respective fields on the page and click "Check Balance." 
 
 
-
-.. image:: get-button.png
+.. image:: getstartedhere.png
    :alt: Walmart gift card balance
    :target:  
 
 
 Step-by-Step Guide to Check a Walmart Gift Card Balance Online
 --------------------------------------------------------------
-Firstly go to the Official `Walmart’s Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_ page.  
-Then, enter Your Card Details  
-Type in the 16-digit card number found on the back of your physical card or in your eGift email.  
-Enter the 4-digit PIN, which is under the scratch-off panel on physical cards or included in your eGift email.  
-Click “Check Balance” After entering the details, click the button to view your remaining balance instantly.
+- Firstly, go to the Official `Walmart’s Gift Card Balance <https://business.walmart.com/account/giftcards/balance>`_ page.
+
+- Then, enter Your Card Details:
+  
+  - Type in the 16-digit card number found on the back of your physical card or in your eGift email.  
+  - Enter the 4-digit PIN, which is under the scratch-off panel on physical cards or included in your eGift email.
+
+- After entering the details, click the button to view your remaining balance instantly.
 
 Step-by-Step Guide to Check a Walmart Gift Card Balance Over the Phone
 ----------------------------------------------------------------------
@@ -39,6 +41,12 @@ Your Walmart gift card number is printed directly on the physical or digital car
 💻 On a Walmart eGift Card  
 - Open the email or digital card message sent by Walmart.  
 - The gift card number and PIN are usually displayed within the message or available through a “View My Card” link.
+
+What If My Walmart Gift Card Doesn’t Have a PIN?
+-------------------------------------------------
+
+If your Walmart gift card doesn’t have a PIN, you won’t be able to check the balance online or by phone. To fix this, visit any Walmart store and ask to exchange your card for one that includes a PIN. Once you have a PIN-enabled card, you can easily check the balance using the online tool or support line.
+
 
 What are common issues when checking gift card balances?
 --------------------------------------------------------
