@@ -1,1 +1,1 @@
-# walmartgiftcardshelpcenter
+# walmart-gift-card-helpcenter
