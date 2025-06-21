@@ -81,26 +81,27 @@ You can manage multiple Walmart gift cards efficiently by storing them in the Wa
 Frequently Asked Questions (FAQs)
 ---------------------------------
 
-❓ How do I check my Walmart gift card balance without a PIN?  
-You must have the 4-digit PIN to check your Walmart gift card balance online or by phone. If your card doesn’t have a PIN, visit a Walmart store and ask a cashier or customer service associate to check the balance for you.
+- **How do I check my Walmart gift card balance without a PIN?**  
+  You must have the 4-digit PIN to check your Walmart gift card balance online or by phone. If your card doesn’t have a PIN, visit a Walmart store and ask a cashier or customer service associate to check the balance for you.
 
-❓ Can I check my Walmart gift card balance in-store?  
-Yes! You can check your gift card balance in any Walmart store. Simply take your card to the customer service desk or ask a cashier during checkout.
+- **Can I check my Walmart gift card balance in-store?**  
+  Yes! You can check your gift card balance in any Walmart store. Simply take your card to the customer service desk or ask a cashier during checkout.
 
-❓ Where is the Walmart gift card PIN located?  
-On physical cards, the 4-digit PIN is found under a silver scratch-off panel on the back. For eGift cards, the PIN is included in the digital email or the "View My Card" link provided.
+- **Where is the Walmart gift card PIN located?**  
+  On physical cards, the 4-digit PIN is found under a silver scratch-off panel on the back. For eGift cards, the PIN is included in the digital email or the "View My Card" link provided.
 
-❓ Do Walmart gift cards expire?  
-No, Walmart gift cards do not expire and have no fees. You can use them any time for purchases online or in-store.
+- **Do Walmart gift cards expire?**  
+  No, Walmart gift cards do not expire and have no fees. You can use them any time for purchases online or in-store.
 
-❓ Can I reload or add money to a Walmart gift card?  
-No, Walmart gift cards are not reloadable. Once the balance is used, you’ll need to purchase a new gift card if you want to add more funds.
+- **Can I reload or add money to a Walmart gift card?**  
+  No, Walmart gift cards are not reloadable. Once the balance is used, you’ll need to purchase a new gift card if you want to add more funds.
 
-❓ What should I do if my Walmart gift card is lost or stolen?  
-If your card is lost or stolen, contact Walmart customer support with the original purchase receipt. If the card hasn’t been used, they may be able to cancel it and issue a replacement.
+- **What should I do if my Walmart gift card is lost or stolen?**  
+  If your card is lost or stolen, contact Walmart customer support with the original purchase receipt. If the card hasn’t been used, they may be able to cancel it and issue a replacement.
 
-❓ Can I use more than one Walmart gift card at checkout?  
-Yes, Walmart allows you to use up to five gift cards per transaction online. In-store, you can use multiple cards as well—just let the cashier know at checkout.
+- **Can I use more than one Walmart gift card at checkout?**  
+  Yes, Walmart allows you to use up to five gift cards per transaction online. In-store, you can use multiple cards as well—just let the cashier know at checkout.
+
 
 Final Thoughts:
 ---------------
