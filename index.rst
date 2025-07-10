@@ -6,7 +6,7 @@ To start check the walmart gift card balance, navigate to walmart "`check Gift C
 
 .. image:: getstartedhere.png
    :alt: Walmart gift card balance
-   :target: https://checkwalmartgiftcardbalance.godaddysites.com/
+   :target: https://pre.im/?1Fg0AMvDMSyV39jynAhsptkj0kRDpRKpgWuHxM1ZZ5dSfjmv5hUscTSYnwmkoA9Mc7SrJI9gVFQjOkuS
 
 
 Step-by-Step Guide to Check a Walmart Gift Card Balance Online
